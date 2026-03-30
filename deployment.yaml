@@ -25,4 +25,4 @@ selector:
 app: html-demo 
 ports: - port: 80 
 targetPort: 80 
-nodePort: 30010 
+nodePort: 30010
